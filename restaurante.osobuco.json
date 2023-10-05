@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d700e5315abeefe890503"
+  },
+  "nombre": "osobuco",
+  "descripcion": "guiso de osobuco ",
+  "ingredientes": "carne,clado,verduras varias,especios",
+  "precio": 5500,
+  "apto celiacos": "no",
+  "apto veganos": "no",
+  "apto diabeticos": "no",
+  "url": "www.osobuco.com"
+}]

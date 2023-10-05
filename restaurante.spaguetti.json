@@ -1,0 +1,20 @@
+[{
+  "0": {
+    "nombre": "spaguetti con salsa"
+  },
+  "_id": {
+    "$oid": "651d5bbe5315abeefe8904f6"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d5ea55315abeefe8904f7"
+  },
+  "descripcion": "spaguetti con salsa bolognesa",
+  "ingredientes": "pasta,salsa de tomate,carne",
+  "precio": 3000,
+  "apto celiacos": "no",
+  "apto vegano": "no",
+  "apto diabeticos": "no",
+  "url": "www.pastas.com"
+}]

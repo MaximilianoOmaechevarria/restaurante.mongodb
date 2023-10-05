@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d669b5315abeefe8904f8"
+  },
+  "nombre": "pollo",
+  "descripcion": "pollo con papas",
+  "ingredientes": "pollo,pasas,especias",
+  "precio": 4000,
+  "apto celiacos": "no",
+  "apto vegano": "no",
+  "apto diabeticos": "no",
+  "url": "www.pollos,com"
+}]

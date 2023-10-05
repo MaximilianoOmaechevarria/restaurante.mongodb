@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d6f2b5315abeefe890500"
+  },
+  "nombre": "panqueque",
+  "descripcion": "panqueque con dulce de leche ",
+  "ingredientes": "panqueque,dulce de leche",
+  "precio": 3500,
+  "apto celiacos": "no",
+  "apto veganos": "no",
+  "apto diabeticos": "no",
+  "url": "www.panqueque.com"
+}]

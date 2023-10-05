@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d68ce5315abeefe8904f9"
+  },
+  "nombre": "bondiola",
+  "descripcion": "bondiola con papas fritas",
+  "ingredientes": "bondila,papas fritas,especias",
+  "precio": 4700,
+  "apto celiacos": "no",
+  "apto veganos": "no",
+  "apto diabeticos": "no",
+  "url": "www.bondiola.com"
+}]

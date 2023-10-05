@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d6e6c5315abeefe8904fe"
+  },
+  "nombre": "ensaladas",
+  "descripcion": "ensalada mixta ",
+  "ingredientes": "verduras varias,especias",
+  "precio": 3500,
+  "apto celiacos": "si",
+  "apto veganos": "si",
+  "apto diabeticos": "si",
+  "url": "www.ensaladas.com"
+}]

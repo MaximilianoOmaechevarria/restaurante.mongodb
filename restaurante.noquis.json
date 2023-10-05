@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d6d535315abeefe8904fc"
+  },
+  "nombre": "noquis",
+  "descripcion": "noquis a los cuatro quesos",
+  "ingredientes": "noqui,crema de leche,quesos,especias",
+  "precio": 4900,
+  "apto celiacos": "no",
+  "apto veganos": "si",
+  "apto diabeticos": "no",
+  "url": "www.noquis.com"
+}]

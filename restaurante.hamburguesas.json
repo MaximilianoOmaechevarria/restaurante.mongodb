@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d6dcd5315abeefe8904fd"
+  },
+  "nombre": "hamburguesas",
+  "descripcion": "hamburguesa con huevo frito ",
+  "ingredientes": "hamburguesas,huevo frito,queso,fiambres,aderesos,especias",
+  "precio": 4100,
+  "apto celiacos": "no",
+  "apto veganos": "no",
+  "apto diabeticos": "no",
+  "url": "www.hamburguesas.com"
+}]

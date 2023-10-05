@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d6cfc5315abeefe8904fb"
+  },
+  "nombre": "ravioles",
+  "descripcion": "ravioles con salsa blanca",
+  "ingredientes": "ravioles,crema de leche,especias",
+  "precio": 4500,
+  "apto celiacos": "no",
+  "apto veganos": "no",
+  "apto diabeticos": "no",
+  "url": "www.ravioles.com"
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "651d6b885315abeefe8904fa"
+  },
+  "nombre": "cordero",
+  "descripcion": "cordero con batatas fritas",
+  "ingredientes": "cordero,batatas,especias",
+  "precio": 5000,
+  "apto celiaco": "no",
+  "apto vegano": "no",
+  "apto diabetico": "no",
+  "url": "www.cordero.com"
+}]
